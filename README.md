@@ -4,7 +4,7 @@ This an effort to build highly available, scalable, serverless website using Ama
 Thanks to <a href="https://github.com/ahmedfaruk" target="_blank">Ahmed Faruk</a> for providing a well-crafted responsive HTML5 resume template - I AM X.
 
 #goServerless Website:
-<a href="http://www.vamsipitta.com" target="_blank">Vamsi Pitta</a>
+<a href="http://www.reachsandeepreddy.com" target="_blank">Sandeep Reddy</a>
 
 #Credits: 
 - <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
